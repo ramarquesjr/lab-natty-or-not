@@ -2,50 +2,31 @@
 
 ## 🚀 Introdução
 
-> Woooow! Look at this 👀
+Olá, meu nome é Ronaldo Alves e esta é a entrega do desafio "Natty or Not" da
+DIO sobre o uso de IAs Generativas.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+## Ebook: Algoritmos Genéticos
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+### 📒 Descrição
 
-### Objetivos
+Ebook sobre Algoritmos Genéticos: Importância, Aplicações e Implementação em Python
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+### 🤖 Tecnologias Utilizadas
 
-### Template
+* IA Generativa ChatGPT para produção do conteúdo e roteirização;
+* IA Generativa Leonardo AI para criação de imagens
+* Ferramenta Joplin para edição utilizando Markdown
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+### 🧐 Processo de Criação
 
-## 📒 Descrição
-Breve descrição do seu projeto
+O ChatGPT foi utilizado para elaboração de todo o conteúdo que foi verificado e
+diagramado no Joplin utilizando a linguagem de marcação Markdown. O Leonardo AI
+foi utilizado para a produção de imagens.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+### 🚀 Resultados
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+[Link ebook](exemplos/teste.pdf)
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+### 💭 Reflexão (Opcional)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Abordagem interessante para que se verifique todo o poder da IAs generativas.
